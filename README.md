@@ -6,7 +6,7 @@ Once leads are collected, the sales team reaches out via calls and emails. Howev
 
 The goal of this project is to build a logistic regression model that assigns a lead score between 0 and 100 to each lead. This score will help the company target leads more effectively, with higher scores indicating a greater likelihood of conversion. Additionally, the model needs to be adaptable to future changes in the company’s requirements, which are detailed in a separate document.
 
-## Steps Followed
+## The Steps:
 
 1. **Reading Data**: Load and explore the dataset.
 2. **Cleaning Data**: Handle missing values, drop irrelevant columns, and prepare the data for analysis.
@@ -20,7 +20,7 @@ The goal of this project is to build a logistic regression model that assigns a 
 10. **Prediction on Test Set**: Evaluate the model’s performance on the test data.
 11. **Precision-Recall Analysis**: Fine-tune the model based on precision and recall metrics.
 
-## Details of Files Provided
+## The Files Provided:
 
 - **Lead Scoring Case Study _ Thach Thao Ho | DSC65.ipynb**: Python notebook containing code and data analysis.
 - **Assignment Subjective Questions _ Lead Scoring Case Study _ Thach Thao Ho | DSC65.pdf**: Document with answers to subjective questions related to the project.

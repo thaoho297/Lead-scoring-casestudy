@@ -22,12 +22,10 @@ The goal of this project is to build a logistic regression model that assigns a 
 
 ## Details of Files Provided
 
-- **Lead Score Case Study Aayushi Meenu .ipynb**: Python notebook containing code and data analysis.
-- **Assignment Subjective Questions.pdf**: Document with answers to subjective questions related to the project.
-- **Lead Score Case Study.pdf**: Final presentation summarizing the project.
-- **Leads.csv**: The dataset used for analysis.
-- **Leads Data Dictionary.xlsx**: Data dictionary explaining the dataset.
-- **Summary.pdf**: A concise summary of the work done in the Python file.
+- **Lead Scoring Case Study _ Thach Thao Ho | DSC65.ipynb**: Python notebook containing code and data analysis.
+- **Assignment Subjective Questions _ Lead Scoring Case Study _ Thach Thao Ho | DSC65.pdf**: Document with answers to subjective questions related to the project.
+- **Lead Scoring Case Study _ Thach Thao Ho | DSC65.pdf**: Final presentation summarizing the project.
+- **Summary Report _ Lead Scoring Case Study _ Thach Thao Ho | DSC65.pdf**: A concise summary of the work done in the Python file.
 
 ---
 
